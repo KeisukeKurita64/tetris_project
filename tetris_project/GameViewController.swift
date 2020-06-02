@@ -6,6 +6,7 @@
 //  Copyright © 2020 IOSapplication_time. All rights reserved.
 //テスト
 //テスト
+//test
 
 import UIKit
 import SpriteKit
